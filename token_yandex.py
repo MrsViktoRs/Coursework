@@ -1,1 +1,1 @@
-token_yandex = 'y0_AgAAAABGjnrBAADLWwAAAADbBOkzYbkdZB9wSlWFrti9BU3n4RdRngw'
+token_yandex = "ваш токен"
