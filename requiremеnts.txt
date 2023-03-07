@@ -1,6 +1,5 @@
-sleep from time
-requests
+requests 2.28.2
+tqdm 4.64.1
 datetime
 json
-tqdm
-os
+configparser
